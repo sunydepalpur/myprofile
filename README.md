@@ -26,6 +26,7 @@
 <p align="left">
 <a href="https://dev.to/sunydepalpur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sunydepalpur" height="30" width="40" /></a>
 <a href="https://twitter.com/somesh9755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somesh9755" height="30" width="40" /></a>
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somesh-choudhary-a0755b48/)](https://www.linkedin.com/in/somesh-choudhary-a0755b48/)
 <a href="https://linkedin.com/in/somesh-choudhary-a0755b48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somesh-choudhary-a0755b48" height="30" width="40" /></a>
 <a href="https://instagram.com/somesh._.choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somesh._.choudhary" height="30" width="40" /></a>
 <a href="https://medium.com/@someshchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@someshchoudhary" height="30" width="40" /></a>
