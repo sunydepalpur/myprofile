@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Somesh Choudhary <img src="https://user-images.githubusercontent.com/10436766/132991504-35e68f8f-b90d-4d5f-9da0-d33c42010505.png" alt="amazon" width="40" height="40"/>  </h1>
+<h1 align="center">Hi 👋, I'm Somesh Choudhary <img src="https://user-images.githubusercontent.com/10436766/132991504-35e68f8f-b90d-4d5f-9da0-d33c42010505.png" alt="amazon" height="40"/>  </h1>
 
 <h3 align="center">A passionate Solution Architect from India</h3>
 
