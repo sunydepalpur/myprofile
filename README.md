@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Solution Architect from India</h3>
 
-<p align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)</p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunydepalpur&label=Profile%20views&color=0e75b6&style=flat" alt="sunydepalpur" /> </p>
