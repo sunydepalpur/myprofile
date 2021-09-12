@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Somesh Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Somesh Choudhary</h1> ![image](https://user-images.githubusercontent.com/10436766/132991504-35e68f8f-b90d-4d5f-9da0-d33c42010505.png)
+
 <h3 align="center">A passionate Solution Architect from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunydepalpur&label=Profile%20views&color=0e75b6&style=flat" alt="sunydepalpur" /> </p>
